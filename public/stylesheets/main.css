@@ -1,10 +1,10 @@
 .jumbotron {
-  background: linear-gradient(to bottom, #FFD700, #FFFFE0);
+  background: linear-gradient(to bottom, #FF0000, #FF8080);
   color: white;
   padding-bottom: 80px; }
   .jumbotron .btn-primary {
-    background: #FFD700;
-    border-color: #FFFFE0; }
+    background: #FF0000;
+    border-color: #FF8080; }
     .jumbotron .btn-primary:hover {
       background: #764556; }
   .jumbotron p {
